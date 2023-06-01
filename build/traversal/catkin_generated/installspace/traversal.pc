@@ -1,0 +1,8 @@
+prefix=/home/gokul/galileo2023/install
+
+Name: traversal
+Description: Description of traversal
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

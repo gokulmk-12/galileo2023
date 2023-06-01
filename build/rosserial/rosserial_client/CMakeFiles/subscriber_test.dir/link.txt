@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/subscriber_test.dir/test/subscriber_test.cpp.o  -o /home/gokul/galileo2023/devel/lib/rosserial_client/subscriber_test  -L/home/gokul/galileo2023/build/gtest -Wl,-rpath,/home/gokul/galileo2023/build/gtest:/home/gokul/galileo2023/build/gtest/lib -rdynamic ../../gtest/lib/libgtest.so -lpthread 
